@@ -1,5 +1,5 @@
 ## lesath International
 
-### RocketSimulation code
+### Rocket Simulation code
 ### Intranet Docs
 ### Policies
